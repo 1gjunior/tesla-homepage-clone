@@ -22,9 +22,6 @@ function App() {
           backgroundImg={SolarPanels}
           leftBtnTxt="ORDER NOW"
           leftBtnLink=""
-          rightBtnTxt="LEARN MORE"
-          rightBtnLink=""
-          twoButtons="false"
           first
         />
         <Item
